@@ -1,5 +1,5 @@
 
-Este proyecto es una aplicación web simple desarrollada con Node.js y SQLite. Contiene un formulario para registrar información de usuarios. Los datos ingresados se almacenan en una base de datos SQLite.
+Este proyecto es una aplicación web simple desarrollada con Next.js y SQLite. Contiene un formulario para registrar información de usuarios. Los datos ingresados se almacenan en una base de datos SQLite.
 
 ## 🧾 Campos del formulario
 
