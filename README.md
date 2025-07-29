@@ -1,3 +1,18 @@
+
+Este proyecto es una aplicación web simple desarrollada con Node.js y SQLite. Contiene un formulario para registrar información de usuarios. Los datos ingresados se almacenan en una base de datos SQLite.
+
+## 🧾 Campos del formulario
+
+- Nombre
+- Apellido
+- Dirección
+- Teléfono
+- Correo
+- Ciudad
+
+Se utiliza SQLite como base de datos local. Los datos se almacenan en el archivo formulario.db, en una tabla llamada usuarios.
+Se puede visualizar o editar los datos utilizando DB Browser for SQLite.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
